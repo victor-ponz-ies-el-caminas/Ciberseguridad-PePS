@@ -370,6 +370,7 @@ La siguiente [presentación](https://speakerdeck.com/triblondon/headers-for-hack
 
 <script async class="speakerdeck-embed" data-id="3faf91d6f1574cb3bcaf058f1f75b54a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+En la siguiente página se puede generar un informe de cumplimiento de las [cabeceras](https://securityheaders.com/)
 ### Principales códigos de estado \(`status codes`\)
 
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en cinco clases: respuestas informativas, respuestas satisfactorias, redirecciones, errores de los clientes y errores de los servidores.
